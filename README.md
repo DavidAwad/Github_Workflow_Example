@@ -8,4 +8,4 @@ Let’s write some sentences.
 3. Hello everyone, you know my name: THANH NGO. Call me Felix if your pleased.
 4. This is sentence 4, Amy Chen enjoys making David Awad unhappy. Especially because branches 
 5. Johnny 5 is alive!
-6.
+6. Did you set it to wumbo? 
